@@ -22,7 +22,7 @@ cd Steganography
 
 # File Structure and explanation 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have Used LSB steganography here. In a Greyscale image, each pixel is represented by 8 bits, while in a RGB it is 24 bits
-<br />
+<br /><br />
 Suppose the following are some of the bits in a Grayscale image
 <br />
 11110011<br />
